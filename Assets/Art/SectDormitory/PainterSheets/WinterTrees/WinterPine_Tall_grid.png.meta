@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: 07e45b016229be740b782f2ab5fa0b74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3257363432894988720
+    second: WinterPine_Tall_grid_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 249
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WinterPine_Tall_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 249
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ab6cab93e70d246b696178edc689ff
+      internalID: -1383415049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinterPine_Tall_1_0
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 249
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598e0f7a2330b1c4bb443cfe25c765f2
+      internalID: -332154722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinterPine_Tall_2_0
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 0
+        width: 249
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18e6acbdd6866f4a9e57964f751869c
+      internalID: 1848393790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinterPine_Tall_3_0
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 0
+        width: 249
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b905bf04e32e7ef4aac2d8199cc431e9
+      internalID: -1742336942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinterPine_Tall_0_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 249
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c0cc0d701faeb43a04ad38239b0c5d
+      internalID: 487953423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinterPine_Tall_1_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 249
+        width: 249
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb020002bcecf04fabdbe3e4340b8b1
+      internalID: 398336386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinterPine_Tall_2_1
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 249
+        width: 249
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a926398919a114193349ebb75ef9d8
+      internalID: -1815595169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinterPine_Tall_3_1
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 249
+        width: 249
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff31a5b40ec0fc94f899a7983d3cc8a8
+      internalID: -1430095413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinterPine_Tall_0_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 498
+        width: 249
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f059074a739982438673650dbc4c9ff
+      internalID: -1199569796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinterPine_Tall_1_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 498
+        width: 249
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92c6fb64c7cab1448817ccceaab8d1e
+      internalID: 191584817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinterPine_Tall_2_2
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 498
+        width: 249
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59711d3d94c16346a93c5ccbf145a54
+      internalID: -106921225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinterPine_Tall_3_2
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 498
+        width: 249
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135e87a310266a54db10866801f48da2
+      internalID: -9500883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinterPine_Tall_0_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 747
+        width: 249
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7679512e8a68bef4fb1fd6288ddcb463
+      internalID: 132010992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinterPine_Tall_1_3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 747
+        width: 249
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c053649c23a2a9408a556230ff41a7e
+      internalID: 1039156211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinterPine_Tall_2_3
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 747
+        width: 249
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3ad38759814314cbdbcdd132182329
+      internalID: 1192885193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinterPine_Tall_3_3
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 747
+        width: 249
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b8b926c32d845448b61938dfcce03f
+      internalID: 1811119917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinterPine_Tall_0_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 996
+        width: 249
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749f493721cb2c54090f4c630c659eb8
+      internalID: -1905145247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinterPine_Tall_1_4
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 996
+        width: 249
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca7d5122bf81704bb5f34120e7fe81c
+      internalID: 1409679816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinterPine_Tall_2_4
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 996
+        width: 249
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7398f7a335b7ade4ab0126ce021f524a
+      internalID: 1925980858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinterPine_Tall_3_4
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 996
+        width: 249
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c5a5025b4de5f43af48f02576be128
+      internalID: -1733006487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinterPine_Tall_0_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1245
+        width: 249
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a888dd5a1dc5324b84b57dfda895f08
+      internalID: 600529806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinterPine_Tall_1_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1245
+        width: 249
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43de3015dd745cd49a08bc465e7f187a
+      internalID: -14800775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinterPine_Tall_2_5
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1245
+        width: 249
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b467dc962ff9bb43bda1371368b32d9
+      internalID: 417054741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinterPine_Tall_3_5
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1245
+        width: 249
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70039df89860f3a4a91a877a9037803d
+      internalID: -897252871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 80a3a3b04450a4f4c8548e87303889a0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WinterPine_Tall_0_0: -1383415049
+      WinterPine_Tall_0_1: 487953423
+      WinterPine_Tall_0_2: -1199569796
+      WinterPine_Tall_0_3: 132010992
+      WinterPine_Tall_0_4: -1905145247
+      WinterPine_Tall_0_5: 600529806
+      WinterPine_Tall_1_0: -332154722
+      WinterPine_Tall_1_1: 398336386
+      WinterPine_Tall_1_2: 191584817
+      WinterPine_Tall_1_3: 1039156211
+      WinterPine_Tall_1_4: 1409679816
+      WinterPine_Tall_1_5: -14800775
+      WinterPine_Tall_2_0: 1848393790
+      WinterPine_Tall_2_1: -1815595169
+      WinterPine_Tall_2_2: -106921225
+      WinterPine_Tall_2_3: 1192885193
+      WinterPine_Tall_2_4: 1925980858
+      WinterPine_Tall_2_5: 417054741
+      WinterPine_Tall_3_0: -1742336942
+      WinterPine_Tall_3_1: -1430095413
+      WinterPine_Tall_3_2: -9500883
+      WinterPine_Tall_3_3: 1811119917
+      WinterPine_Tall_3_4: -1733006487
+      WinterPine_Tall_3_5: -897252871
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

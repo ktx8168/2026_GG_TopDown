@@ -3,7 +3,7 @@ using UnityEngine.InputSystem;
 public class TopDownPlayer : MonoBehaviour
 {
     public float moveSpeed = 4f;
-    public float frameTime = 0.15f;
+    public float frameTime = 0.08f;
     public Sprite[] downSprites;
     public Sprite[] upSprites;
     public Sprite[] leftSprites;
@@ -43,10 +43,10 @@ public class TopDownPlayer : MonoBehaviour
             {
                 frameTimer = frameTime;
                 frameIndex += 1;
-                if (frameIndex >= currentSprites.Length) { frameIndex = 0; }
+                if (frameIndex >= currentSprites.Length) { frameIndex = 1; }
             }
         }
-        else { frameIndex = 0; }
+        else { frameIndex = 0; frameTimer = 0f; }
         sr.sprite = currentSprites[frameIndex];
     }
 }

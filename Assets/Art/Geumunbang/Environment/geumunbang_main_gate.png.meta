@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: b50758373c640c74e8df4c7e81370152
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3209489294299419762
+    second: geumunbang_main_gate_0
+  - first:
+      213: -9166161618743451634
+    second: geumunbang_main_gate_1
+  - first:
+      213: 2370782944766478709
+    second: geumunbang_main_gate_2
+  - first:
+      213: -4117311168651156246
+    second: geumunbang_main_gate_3
+  - first:
+      213: 6563359942631183720
+    second: geumunbang_main_gate_4
+  - first:
+      213: 8996626191990092310
+    second: geumunbang_main_gate_5
+  - first:
+      213: 1637082351637142342
+    second: geumunbang_main_gate_6
+  - first:
+      213: 4283816665927502142
+    second: geumunbang_main_gate_7
+  - first:
+      213: -2038426570384607036
+    second: geumunbang_main_gate_8
+  - first:
+      213: 2632856476953099486
+    second: geumunbang_main_gate_9
+  - first:
+      213: 8631212711053315511
+    second: geumunbang_main_gate_10
+  - first:
+      213: -8186483328931115073
+    second: geumunbang_main_gate_11
+  - first:
+      213: -1936509879104536767
+    second: geumunbang_main_gate_12
+  - first:
+      213: 7615828880988799053
+    second: geumunbang_main_gate_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: geumunbang_main_gate_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1402
+        height: 1122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b2ddecd7a9573d0800000000000000
+      internalID: -3209489294299419762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geumunbang_main_gate_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1111
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e002af872904bc080800000000000000
+      internalID: -9166161618743451634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geumunbang_main_gate_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 969
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5794c5ef686b6e020800000000000000
+      internalID: 2370782944766478709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geumunbang_main_gate_3
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 626
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4acca7e4f5cd6c0800000000000000
+      internalID: -4117311168651156246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geumunbang_main_gate_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 614
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8655f89f71db51b50800000000000000
+      internalID: 6563359942631183720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geumunbang_main_gate_5
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 643
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6127b8efadf6adc70800000000000000
+      internalID: 8996626191990092310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geumunbang_main_gate_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 574
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b9465a9b518b610800000000000000
+      internalID: 1637082351637142342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geumunbang_main_gate_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 437
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39c18f9f8c237b30800000000000000
+      internalID: 4283816665927502142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geumunbang_main_gate_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 293
+        width: 5
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8f18395dd06b3e0800000000000000
+      internalID: -2038426570384607036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geumunbang_main_gate_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc306d2409c98420800000000000000
+      internalID: 2632856476953099486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geumunbang_main_gate_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 183
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd4b270b3a38c770800000000000000
+      internalID: 8631212711053315511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geumunbang_main_gate_11
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 183
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf476349c4c36e80800000000000000
+      internalID: -8186483328931115073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geumunbang_main_gate_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 7
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f70f766822025e0800000000000000
+      internalID: -1936509879104536767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geumunbang_main_gate_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 101
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d408f71540cd0b960800000000000000
+      internalID: 7615828880988799053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      geumunbang_main_gate_0: -3209489294299419762
+      geumunbang_main_gate_1: -9166161618743451634
+      geumunbang_main_gate_10: 8631212711053315511
+      geumunbang_main_gate_11: -8186483328931115073
+      geumunbang_main_gate_12: -1936509879104536767
+      geumunbang_main_gate_13: 7615828880988799053
+      geumunbang_main_gate_2: 2370782944766478709
+      geumunbang_main_gate_3: -4117311168651156246
+      geumunbang_main_gate_4: 6563359942631183720
+      geumunbang_main_gate_5: 8996626191990092310
+      geumunbang_main_gate_6: 1637082351637142342
+      geumunbang_main_gate_7: 4283816665927502142
+      geumunbang_main_gate_8: -2038426570384607036
+      geumunbang_main_gate_9: 2632856476953099486
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

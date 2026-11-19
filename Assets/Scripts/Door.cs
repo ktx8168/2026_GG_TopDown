@@ -1,11 +1,14 @@
 using UnityEngine;
+using UnityEngine.Events;
 public class Door : MonoBehaviour
 {
     public Transform target;
     public GameObject prompt;
     public DialogueBox dialogueBox;
     public int needKeys = 0;
+    public int needClues = 0;
     public Talk lockedTalk;
+    public UnityEvent onUsed = new UnityEvent();
     private Transform player;
     void OnTriggerEnter2D(Collider2D other)
     {
@@ -21,15 +24,16 @@ public class Door : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             prompt.SetActive(false);
-            dialogueBox.nearDoor = null;
+            if (dialogueBox.nearDoor == this) dialogueBox.nearDoor = null;
         }
     }
     public void Use()
     {
         Inventory inventory = player.GetComponent<Inventory>();
-        if (inventory.keys >= needKeys)
+        if (inventory.keys >= needKeys && inventory.clues >= needClues)
         {
             player.position = target.position;
+            onUsed.Invoke();
         }
         else { lockedTalk.Say(); }
     }

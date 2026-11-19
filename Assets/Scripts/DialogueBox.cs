@@ -9,6 +9,8 @@ public class DialogueBox : MonoBehaviour
     public GameObject choicePanel;
     public TMP_Text choiceText1;
     public TMP_Text choiceText2;
+    public GameObject documentPanel;
+    public UnityEngine.UI.Image documentImage;
     public bool isOpen = false;
     public Talk nearTalk;
     public Door nearDoor;
@@ -26,7 +28,7 @@ public class DialogueBox : MonoBehaviour
         else if (kb.eKey.wasPressedThisFrame)
         {
             if (isOpen) { Next(); }
-            else if (nearTalk != null) { Open(nearTalk); }
+            else if (nearTalk != null && nearTalk.isActiveAndEnabled) { nearTalk.Say(); }
             else if (nearDoor != null) { nearDoor.Use(); }
         }
     }
@@ -34,9 +36,22 @@ public class DialogueBox : MonoBehaviour
     {
         current = talk;
         index = 0;
+        choosing = false;
         isOpen = true;
-        panel.SetActive(true);
-        ShowLine();
+        choicePanel.SetActive(false);
+        if (talk.documentImage != null)
+        {
+            panel.SetActive(false);
+            documentImage.sprite = talk.documentImage;
+            documentImage.preserveAspect = true;
+            documentPanel.SetActive(true);
+        }
+        else
+        {
+            if (documentPanel != null) documentPanel.SetActive(false);
+            panel.SetActive(true);
+            ShowLine();
+        }
     }
     void ShowLine()
     {
@@ -47,9 +62,26 @@ public class DialogueBox : MonoBehaviour
     }
     void Next()
     {
+        if (current.documentImage != null)
+        {
+            CloseDocument();
+            return;
+        }
         index += 1;
         if (index < current.lines.Length) { ShowLine(); }
-        else { Close(); }
+        else
+        {
+            Talk finished = current;
+            Close();
+            finished.Finish();
+        }
+    }
+    public void CloseDocument()
+    {
+        if (current == null || current.documentImage == null) return;
+        Talk finished = current;
+        Close();
+        finished.Finish();
     }
     void ShowChoices()
     {
@@ -71,5 +103,7 @@ public class DialogueBox : MonoBehaviour
         isOpen = false;
         panel.SetActive(false);
         choicePanel.SetActive(false);
+        if (documentPanel != null) documentPanel.SetActive(false);
+        current = null;
     }
 }

@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: adeabe681f47bd442818efcdd5389aa1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3398692816926733730
+    second: bed_single_0
+  - first:
+      213: 699443176123782906
+    second: bed_single_1
+  - first:
+      213: 3202691838668926120
+    second: bed_single_2
+  - first:
+      213: 3548441490316652478
+    second: bed_single_3
+  - first:
+      213: 2065631969087626926
+    second: bed_single_4
+  - first:
+      213: 3869707618181776562
+    second: bed_single_5
+  - first:
+      213: -5176276524402161328
+    second: bed_single_6
+  - first:
+      213: -5107236800179234016
+    second: bed_single_7
+  - first:
+      213: 8940968060251707575
+    second: bed_single_8
+  - first:
+      213: 768384383190985422
+    second: bed_single_9
+  - first:
+      213: 3943710472325276503
+    second: bed_single_10
+  - first:
+      213: -5161724583449831791
+    second: bed_single_11
+  - first:
+      213: -1689681672795731476
+    second: bed_single_12
+  - first:
+      213: 3655382664448415721
+    second: bed_single_13
+  - first:
+      213: 1506489725668164384
+    second: bed_single_14
+  - first:
+      213: -8784529362216450027
+    second: bed_single_15
+  - first:
+      213: 7623665246472436036
+    second: bed_single_16
+  - first:
+      213: -3323233431309283431
+    second: bed_single_17
+  - first:
+      213: -2099926407832891208
+    second: bed_single_18
+  - first:
+      213: -2285133676664305671
+    second: bed_single_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bed_single_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 955
+        height: 1472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a096ad3ea65d0d0800000000000000
+      internalID: -3398692816926733730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_single_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1367
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6dd65ecdbe4b900800000000000000
+      internalID: 699443176123782906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_single_2
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1335
+        width: 93
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac67e8324f327c20800000000000000
+      internalID: 3202691838668926120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_single_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1221
+        width: 67
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfe4982cb89e3130800000000000000
+      internalID: 3548441490316652478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_single_4
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1347
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae982ae4599aac10800000000000000
+      internalID: 2065631969087626926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_single_5
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1285
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4095e7396f3b530800000000000000
+      internalID: 3869707618181776562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_single_6
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1177
+        width: 40
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059c0d71deb2a28b0800000000000000
+      internalID: -5176276524402161328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_single_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 973
+        width: 131
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b938580337f19b0800000000000000
+      internalID: -5107236800179234016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_single_8
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1109
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b89a6b5413b41c70800000000000000
+      internalID: 8940968060251707575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_single_9
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 903
+        width: 101
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca6e038689d9aa00800000000000000
+      internalID: 768384383190985422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_single_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 823
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753afe7a7cfdab630800000000000000
+      internalID: 3943710472325276503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_single_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 772
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196521fd6dedd58b0800000000000000
+      internalID: -5161724583449831791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_single_12
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 311
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9c58d887b0d88e0800000000000000
+      internalID: -1689681672795731476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_single_13
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 214
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e791909a278ab230800000000000000
+      internalID: 3655382664448415721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_single_14
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 99
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0230a3c7c6028e410800000000000000
+      internalID: 1506489725668164384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_single_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 80
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51889166615171680800000000000000
+      internalID: -8784529362216450027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_single_16
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 99
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449fa765623bcc960800000000000000
+      internalID: 7623665246472436036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_single_17
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 95
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f8b1d2dc081e1d0800000000000000
+      internalID: -3323233431309283431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_single_18
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 45
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b098a6de009bd2e0800000000000000
+      internalID: -2099926407832891208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_single_19
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 31
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7442a37039940e0800000000000000
+      internalID: -2285133676664305671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bed_single_0: -3398692816926733730
+      bed_single_1: 699443176123782906
+      bed_single_10: 3943710472325276503
+      bed_single_11: -5161724583449831791
+      bed_single_12: -1689681672795731476
+      bed_single_13: 3655382664448415721
+      bed_single_14: 1506489725668164384
+      bed_single_15: -8784529362216450027
+      bed_single_16: 7623665246472436036
+      bed_single_17: -3323233431309283431
+      bed_single_18: -2099926407832891208
+      bed_single_19: -2285133676664305671
+      bed_single_2: 3202691838668926120
+      bed_single_3: 3548441490316652478
+      bed_single_4: 2065631969087626926
+      bed_single_5: 3869707618181776562
+      bed_single_6: -5176276524402161328
+      bed_single_7: -5107236800179234016
+      bed_single_8: 8940968060251707575
+      bed_single_9: 768384383190985422
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

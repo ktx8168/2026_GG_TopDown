@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 0cadb917151d8344885774b6d0d990fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5753191964232463022
+    second: 02_high_stakes_table_0
+  - first:
+      213: -7976383914048907833
+    second: 02_high_stakes_table_1
+  - first:
+      213: -6411794928334691489
+    second: 02_high_stakes_table_2
+  - first:
+      213: -6814444151180241808
+    second: 02_high_stakes_table_3
+  - first:
+      213: -4592894915917765148
+    second: 02_high_stakes_table_4
+  - first:
+      213: 3353985536772421099
+    second: 02_high_stakes_table_5
+  - first:
+      213: -6798290495543787242
+    second: 02_high_stakes_table_6
+  - first:
+      213: 7036166453838245641
+    second: 02_high_stakes_table_7
+  - first:
+      213: 3143036966416564217
+    second: 02_high_stakes_table_8
+  - first:
+      213: -7053120075634324615
+    second: 02_high_stakes_table_9
+  - first:
+      213: 3373312185967619066
+    second: 02_high_stakes_table_10
+  - first:
+      213: 1951146975476091050
+    second: 02_high_stakes_table_11
+  - first:
+      213: -1376538824916049399
+    second: 02_high_stakes_table_12
+  - first:
+      213: 5607718217354571353
+    second: 02_high_stakes_table_13
+  - first:
+      213: -7646919721642149093
+    second: 02_high_stakes_table_14
+  - first:
+      213: -4044954403216612884
+    second: 02_high_stakes_table_15
+  - first:
+      213: -3346209391820082563
+    second: 02_high_stakes_table_16
+  - first:
+      213: -1153417793992648904
+    second: 02_high_stakes_table_17
+  - first:
+      213: 7848971653637577496
+    second: 02_high_stakes_table_18
+  - first:
+      213: 334080688243096725
+    second: 02_high_stakes_table_19
+  - first:
+      213: -4622037110049619715
+    second: 02_high_stakes_table_20
+  - first:
+      213: 8222959868949080585
+    second: 02_high_stakes_table_21
+  - first:
+      213: -7652185982188391473
+    second: 02_high_stakes_table_22
+  - first:
+      213: 8323583563101791650
+    second: 02_high_stakes_table_23
+  - first:
+      213: 1485397247216297910
+    second: 02_high_stakes_table_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 02_high_stakes_table_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1073
+        height: 1376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dca47e36e8820b0800000000000000
+      internalID: -5753191964232463022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_high_stakes_table_1
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1375
+        width: 550
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c599f247113e4190800000000000000
+      internalID: -7976383914048907833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_high_stakes_table_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1133
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53a5fbdb7ab407a0800000000000000
+      internalID: -6411794928334691489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_high_stakes_table_3
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1115
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074d923262b3e61a0800000000000000
+      internalID: -6814444151180241808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_high_stakes_table_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1053
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5260e7862c240c0800000000000000
+      internalID: -4592894915917765148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_high_stakes_table_5
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 843
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be53e155310cb8e20800000000000000
+      internalID: 3353985536772421099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_high_stakes_table_6
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 371
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611c23d20de97a1a0800000000000000
+      internalID: -6798290495543787242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_high_stakes_table_7
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 343
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f6c8d4c1c75a160800000000000000
+      internalID: 7036166453838245641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_high_stakes_table_8
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 324
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff3e2be77f4e9b20800000000000000
+      internalID: 3143036966416564217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_high_stakes_table_9
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 323
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bc3a509a84e1e90800000000000000
+      internalID: -7053120075634324615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_high_stakes_table_10
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 321
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afba8118f8960de20800000000000000
+      internalID: 3373312185967619066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_high_stakes_table_11
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 322
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa884d926ddd31b10800000000000000
+      internalID: 1951146975476091050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_high_stakes_table_12
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 244
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90268516b3d85ece0800000000000000
+      internalID: -1376538824916049399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_high_stakes_table_13
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 101
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ee7e9f10e92dd40800000000000000
+      internalID: 5607718217354571353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_high_stakes_table_14
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 71
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b379d370fa0e590800000000000000
+      internalID: -7646919721642149093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_high_stakes_table_15
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 77
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce12f9fb66f6dd7c0800000000000000
+      internalID: -4044954403216612884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_high_stakes_table_16
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 63
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72fc708940ef81d0800000000000000
+      internalID: -3346209391820082563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_high_stakes_table_17
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 55
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837147f90ac3effe0800000000000000
+      internalID: -1153417793992648904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_high_stakes_table_18
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 63
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b9d2322262dec60800000000000000
+      internalID: 7848971653637577496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_high_stakes_table_19
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 31
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c3c0dad94e2a400800000000000000
+      internalID: 334080688243096725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_high_stakes_table_20
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 36
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0c1dcacb93bdfb0800000000000000
+      internalID: -4622037110049619715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_high_stakes_table_21
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 15
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90aa0070f62dd1270800000000000000
+      internalID: 8222959868949080585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_high_stakes_table_22
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 16
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3ff686469fdc590800000000000000
+      internalID: -7652185982188391473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_high_stakes_table_23
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 15
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a566f0862f438370800000000000000
+      internalID: 8323583563101791650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_high_stakes_table_24
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 6
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7aba62de03d9410800000000000000
+      internalID: 1485397247216297910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      02_high_stakes_table_0: -5753191964232463022
+      02_high_stakes_table_1: -7976383914048907833
+      02_high_stakes_table_10: 3373312185967619066
+      02_high_stakes_table_11: 1951146975476091050
+      02_high_stakes_table_12: -1376538824916049399
+      02_high_stakes_table_13: 5607718217354571353
+      02_high_stakes_table_14: -7646919721642149093
+      02_high_stakes_table_15: -4044954403216612884
+      02_high_stakes_table_16: -3346209391820082563
+      02_high_stakes_table_17: -1153417793992648904
+      02_high_stakes_table_18: 7848971653637577496
+      02_high_stakes_table_19: 334080688243096725
+      02_high_stakes_table_2: -6411794928334691489
+      02_high_stakes_table_20: -4622037110049619715
+      02_high_stakes_table_21: 8222959868949080585
+      02_high_stakes_table_22: -7652185982188391473
+      02_high_stakes_table_23: 8323583563101791650
+      02_high_stakes_table_24: 1485397247216297910
+      02_high_stakes_table_3: -6814444151180241808
+      02_high_stakes_table_4: -4592894915917765148
+      02_high_stakes_table_5: 3353985536772421099
+      02_high_stakes_table_6: -6798290495543787242
+      02_high_stakes_table_7: 7036166453838245641
+      02_high_stakes_table_8: 3143036966416564217
+      02_high_stakes_table_9: -7053120075634324615
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

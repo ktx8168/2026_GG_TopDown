@@ -1,0 +1,1500 @@
+fileFormatVersion: 2
+guid: e8364b6f050052d43b345aa5b2d27312
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6428026154791572833
+    second: SnowBuilding_grid_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 161
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SnowBuilding_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef5c8e9134023045b57f7bee18fbeff
+      internalID: -1881131388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_1_0
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7136e479e3f4a4545b5b44bd252e57a4
+      internalID: -1532562170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_2_0
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9dcbb2c8a5ddc43b94fd5f1581c7c3
+      internalID: 2147301100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_3_0
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 0
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd6654d561d7034c8c9d349e29f991c
+      internalID: -2062076509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_4_0
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 0
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63efa65f3f322f14b8116e9d7b4b55c6
+      internalID: -592583987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_5_0
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 0
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840157e6d2a3552498436799e85bcdab
+      internalID: -1028620122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_6_0
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 0
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e79afd25c3a59b46b428c5157a1dfb8
+      internalID: -1310195493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_7_0
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 0
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141aa483abcbc63468418c454ea56bfe
+      internalID: 424148941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_8_0
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 0
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edbdde41c4fa5c4dbfb9f16fa4d43d6
+      internalID: 1657074303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_9_0
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 0
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f057987b266314e91b85b594dd0155
+      internalID: -1506506060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_0_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0698377a05785468cc6bd13ec5cd51
+      internalID: -981783981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_1_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 161
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b75d46604927814db14eeb2779a93c3
+      internalID: 97053750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_2_1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 161
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5963fc6a94341204aa4223ffdb32c840
+      internalID: -717878249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_3_1
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 161
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286f62ea09d0be94596c38be33ae6f81
+      internalID: 1089414296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_4_1
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 161
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5308d431833222c44b176f409cc07106
+      internalID: -92442876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_5_1
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 161
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41c08c7212aa6648af33f1d114bf436
+      internalID: -1942950214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_6_1
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 161
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25c9418ca8f2c040a3e16f637ec1ca4
+      internalID: -632954626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_7_1
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 161
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8edc9ab6cf66834ca0747ba001a0fcc
+      internalID: 432839660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_8_1
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 161
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9262a5c2af5c2a04e9505d13c38027c3
+      internalID: -888903131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_9_1
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 161
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37f26759745f174bb1c950a5c44f6e7
+      internalID: 1743291917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_0_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e58b9fa14d7924d86fbebfd26dd073
+      internalID: 2077036182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_1_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 322
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a31f895280a1da4ab968f289127f824
+      internalID: 1435125347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_2_2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 322
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324f334bafaa07a4eaee25a25f558197
+      internalID: -1019637954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_3_2
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 322
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eece506142248e54582050b158ee7631
+      internalID: -2136584250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_4_2
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 322
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b9fcbbe664be840a1f91e6e545cb20
+      internalID: 1978606009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_5_2
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 322
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf65c5c1ef2cd649807b22964e49de5
+      internalID: 1545070624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_6_2
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 322
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e06e7ffd12b5843b576f326ca137d2
+      internalID: 1984059992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_7_2
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 322
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9cd8d2d6f2b3d4b8dfe12e306b751a
+      internalID: -1068079711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_8_2
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 322
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2ffb38ddc1c6743b2a1b74b5f3c430
+      internalID: 1148323053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_9_2
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 322
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedbd2501bf76324caa44c23b93d0466
+      internalID: -84616166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_0_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 483
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18774eda06ef5344a9e01bc9c463d2ed
+      internalID: 481663419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_1_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 483
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e18a29d24dc5fd4eb98cefc3da5c40f
+      internalID: 286089834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_2_3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 483
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a484f1f73e9d9764da66b1e089bc0266
+      internalID: 1407605016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_3_3
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 483
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d76ca71759abac4590e175f879e4672
+      internalID: -1224464835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_4_3
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 483
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cd11fc8ab53584aaacd44c15686209
+      internalID: -119465772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_5_3
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 483
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b19a384dfb48ff428dc19ea65ec825c
+      internalID: 1573246500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_6_3
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 483
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f9f447340fdaa44a79d2b54f2fccfa
+      internalID: 1531648636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_7_3
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 483
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6acdb13b85f984bb38c2cca197f3ed
+      internalID: -1266873030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_8_3
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 483
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1256f0da88dfa4e89c8876653929c3
+      internalID: 2049229176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_9_3
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 483
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27dd34f72e33d7428a995dc5abcfc25
+      internalID: -455008958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_0_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 644
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e80319b0e9771d4c99225330337cb5b
+      internalID: 820434770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_1_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 644
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff794ebd3c4e09d4fb0e493027f2d0c9
+      internalID: 1695589361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_2_4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 644
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d26eba7bdc2e7d4888748acbbc6fc67
+      internalID: 806517155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_3_4
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 644
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bb7fab03ffb7a4cbc55fd3d50d4c95
+      internalID: 1241048192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_4_4
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 644
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db121591bc0dce4c8bee594bc2b7722
+      internalID: 1702627533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_5_4
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 644
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d038f5ddeb1f664ba9b6b4367987859
+      internalID: 1991727804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_6_4
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 644
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a791450294b60e47a1d4f3061c46d4b
+      internalID: -1462164772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_7_4
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 644
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284478a416a9396438413dcb0059adf9
+      internalID: -1648807284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_8_4
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 644
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a93c46a0e405ea4895acf314c439e6e
+      internalID: 1433448788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_9_4
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 644
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ded738d89215d4a83ef7a73ce5f883
+      internalID: -187485853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_0_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 805
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12dfef58fe344b4a836804717e37beb
+      internalID: 1030430841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_1_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 805
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2709d8c9d70aaa4db7fa11af0849aba
+      internalID: -27316119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_2_5
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 805
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa39a6206022d04f8b2e9ce2a377763
+      internalID: -551278989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_3_5
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 805
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e08665d6076734ba15e5b80aa2d9ed
+      internalID: -1901965427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_4_5
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 805
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7e812c46146ec4c94dab1a77c30a48
+      internalID: 2015203031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_5_5
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 805
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067f35880c715904199add3a0adc8fc4
+      internalID: -1210780067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_6_5
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 805
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40441d2e14e3824e8cc108a9b042f52
+      internalID: -214717746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_7_5
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 805
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c90047d377b4f842b18c3ba729fe8fe
+      internalID: -2005886244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_8_5
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 805
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a52cbb01abc55f4aa3473699b8490c2
+      internalID: 660752135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBuilding_9_5
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 805
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0f4a79de090a7489ea2e5401649a1b
+      internalID: -104649022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 36d6d14de28a8b14283e1969589c02ab
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SnowBuilding_0_0: -1881131388
+      SnowBuilding_0_1: -981783981
+      SnowBuilding_0_2: 2077036182
+      SnowBuilding_0_3: 481663419
+      SnowBuilding_0_4: 820434770
+      SnowBuilding_0_5: 1030430841
+      SnowBuilding_1_0: -1532562170
+      SnowBuilding_1_1: 97053750
+      SnowBuilding_1_2: 1435125347
+      SnowBuilding_1_3: 286089834
+      SnowBuilding_1_4: 1695589361
+      SnowBuilding_1_5: -27316119
+      SnowBuilding_2_0: 2147301100
+      SnowBuilding_2_1: -717878249
+      SnowBuilding_2_2: -1019637954
+      SnowBuilding_2_3: 1407605016
+      SnowBuilding_2_4: 806517155
+      SnowBuilding_2_5: -551278989
+      SnowBuilding_3_0: -2062076509
+      SnowBuilding_3_1: 1089414296
+      SnowBuilding_3_2: -2136584250
+      SnowBuilding_3_3: -1224464835
+      SnowBuilding_3_4: 1241048192
+      SnowBuilding_3_5: -1901965427
+      SnowBuilding_4_0: -592583987
+      SnowBuilding_4_1: -92442876
+      SnowBuilding_4_2: 1978606009
+      SnowBuilding_4_3: -119465772
+      SnowBuilding_4_4: 1702627533
+      SnowBuilding_4_5: 2015203031
+      SnowBuilding_5_0: -1028620122
+      SnowBuilding_5_1: -1942950214
+      SnowBuilding_5_2: 1545070624
+      SnowBuilding_5_3: 1573246500
+      SnowBuilding_5_4: 1991727804
+      SnowBuilding_5_5: -1210780067
+      SnowBuilding_6_0: -1310195493
+      SnowBuilding_6_1: -632954626
+      SnowBuilding_6_2: 1984059992
+      SnowBuilding_6_3: 1531648636
+      SnowBuilding_6_4: -1462164772
+      SnowBuilding_6_5: -214717746
+      SnowBuilding_7_0: 424148941
+      SnowBuilding_7_1: 432839660
+      SnowBuilding_7_2: -1068079711
+      SnowBuilding_7_3: -1266873030
+      SnowBuilding_7_4: -1648807284
+      SnowBuilding_7_5: -2005886244
+      SnowBuilding_8_0: 1657074303
+      SnowBuilding_8_1: -888903131
+      SnowBuilding_8_2: 1148323053
+      SnowBuilding_8_3: 2049229176
+      SnowBuilding_8_4: 1433448788
+      SnowBuilding_8_5: 660752135
+      SnowBuilding_9_0: -1506506060
+      SnowBuilding_9_1: 1743291917
+      SnowBuilding_9_2: -84616166
+      SnowBuilding_9_3: -455008958
+      SnowBuilding_9_4: -187485853
+      SnowBuilding_9_5: -104649022
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
